@@ -1,0 +1,53 @@
+Overriding: out_dir = out-shakespeare-lr5e4
+Overriding: device = cuda
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 10.65M
+Loading meta from data\shakespeare_char\meta.pkl...
+
+
+ANGELO:
+And coward, is the servant of the deed?
+
+BOP:
+Sir, take him to thee upon the traitor:
+Some saw cruel than the men of those proof is conceiting,
+And with it enter'd with the clumny sound;
+Where he is warm'd like to early his power,
+Nor she is spent years to us or do this death:
+I will make all all so what evils I have done.
+
+BENVOLIO:
+A poor gentleman of a mother, I would not say:
+'Tis your poor fellows in my other fair proper
+And allady bear the formed of my care to kiss
+The hands of th
+---------------
+
+Men part of my young party, my master and seems
+Some present made well careless of the ground.
+
+BUCKINGHAM:
+My lord, good my lord, that was thou ever
+A prevoket--indeed, because I meet thee
+On the aught of Richard: though I must not should have
+To move the wanton and begin consul;
+Or so let them some deny, welcome to speak:
+We have heard it with thee in the earth of thee
+To time to ornament of the wars;
+For welcome, sir, could tell me be thought here,
+And all watch'd upon their face; you have me
+---------------
+
+Men than I beseech you, I would were denure to him
+To see the cause: back, I have done, madam;
+And in the worst of the son and much a word,
+And all the good he seek it. Can you true,
+You make no more of than wars than you in men
+To his charge enough, if that you are in hand,
+But let them have made the world a deer of them hand,
+Should not be sigh his; for whose must have I not,
+From his daughter voices, that thoughts been my brother;
+But not you can from your gracious self I have ta'en:
+Flatters
+---------------
