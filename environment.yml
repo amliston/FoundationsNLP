@@ -3,9 +3,12 @@
 #
 # Note: For GPU support, install PyTorch separately first (from https://pytorch.org/ for your device)
 # 
-# Then activate the environment and install the rest:
+# Then activate the environment 
 # conda activate nanogpt
-# pip install -r requirements.txt
+#
+# or install the dependencies with pip separately:
+# pip install torch tiktoken transformers datasets wandb ipykernel
+
 
 name: nanogpt
 channels:
