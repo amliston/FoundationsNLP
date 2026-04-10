@@ -1,27 +1,37 @@
-# baseline config file specified in assignment
+# Experiment 1: High learning rate
+# Change: learning_rate 1e-3 -> 1e-2 (10x increase)
+# All other hyperparameters match baseline
 
-out_dir = 'out-shakespeare-baseline'
+out_dir = 'out-shakespeare-lr1e2'
+
 eval_interval = 250
-eval_iters = 200
+eval_iters = 200            
 log_interval = 10
+
 always_save_checkpoint = False
+
 wandb_log = False
 wandb_project = 'nanoGPT-assignment'
-wandb_run_name = 'baseline'
+wandb_run_name = 'lr1e2'
+
 dataset = 'shakespeare_char'
 gradient_accumulation_steps = 1
 batch_size = 64
 block_size = 256
+
 n_layer = 6
 n_head = 6
 n_embd = 384
 dropout = 0.2
-learning_rate = 1e-3
+
+learning_rate = 1e-2       # CHANGED: baseline was 1e-3
 max_iters = 5000
 lr_decay_iters = 5000
 min_lr = 1e-4
 beta2 = 0.99
+
 warmup_iters = 100
 weight_decay = 1e-1
-device = 'cuda' # using 'cuda' with GPU
-compile = False # compiler has issues on Windows; leaving False
+
+device = 'cuda'
+compile = False
