@@ -1,3 +1,12 @@
+# To create this environment, run this line in the terimnal:
+# conda env create -f environment.yml
+#
+# Note: For GPU support, install PyTorch separately first (from https://pytorch.org/ for your device)
+# 
+# Then activate the environment and install the rest:
+# conda activate nanogpt
+# pip install -r requirements.txt
+
 name: nanogpt
 channels:
   - defaults
