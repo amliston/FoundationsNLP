@@ -1,0 +1,73 @@
+Overriding: out_dir = out-shakespeare-baseline
+Overriding: device = cuda
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 10.65M
+Loading meta from data\shakespeare_char\meta.pkl...
+
+
+ANGELO:
+And cowards it be strawn'd; and you will grave you
+gates your happiness, that by the shorten with me.
+
+ISABELLA:
+In gold time of it.
+
+DUKE VINCENTIO:
+Why, well, how that Hercules the former properioved me
+else no more.
+
+ANGELO:
+Here's a minister.
+
+ISABELLA:
+I will answer the prisoner of the
+most Capulet, prize on the dominion. I have
+strange it for the king thrust for the great sheep-by allowers, and
+she was a marble soldier.
+
+ANGELO:
+Had you a help?
+
+ISABELLA:
+A neither to change me to
+---------------
+
+Men pardon me, you shall have hanged to myself.
+
+LORD FITZWATER:
+The honour is so not unborn, whom comes off
+Which mighty more should perjury of evils.
+
+WARWICK:
+Hence stays our father; but what makes the grounds
+Of blood, against his sovereign news our household.
+
+RICHARD:
+About with the victory lambs of Norfolk,
+And yet cry him upon their hates tongue,
+To the young I see this determined counsel,
+For your place, that the ruin we were balm of soul,
+For fined to the time would have us you well en
+---------------
+
+Men than I beseech you, Queen's wretched men
+To the princess; young Corioli is against
+The waving seas of worthy in her bosom
+That in the new-more free and bring of him.
+
+First Citizen:
+Here's a man to do't! O, there's possessession!
+
+CORIOLANUS:
+And in this stroke will and have less
+For the manners of the babes: 'tis not haste
+That best beseech it still belows at the law: yet I
+have been some caught your power.
+
+MENENIUS:
+One more him than thou hast been mad.
+
+First Servingman:
+But what late he
+---------------

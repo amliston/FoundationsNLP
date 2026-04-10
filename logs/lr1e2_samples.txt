@@ -1,0 +1,61 @@
+Overriding: out_dir = out-shakespeare-lr1e2
+Overriding: device = cuda
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 10.65M
+Loading meta from data\shakespeare_char\meta.pkl...
+
+
+KING RICHARD II:
+Shall I, be made the way to take and my dagger
+My arm that unquite but redeem'd, every to you,
+Do not but my tongue to the conceit of dign,
+We might send in the stride virtue of the next
+And justice lind that the crown with a crown.
+
+DUKE OF YORK:
+He came the ground many world that more counsel,
+And she's the other hands in his son
+The foresh pride thrust for the great shadow pins,
+And that Prince will bring upon thee discoved:
+Thy brother, this courtesy tears,--
+
+DUKE OF SURRE
+---------------
+
+Men pardon me such seeming steem so plant,
+Nor now fortune's majesty; and being it now
+And I, with confessions to castle. And ask you?
+
+Second Lady:
+The more of the parts to the prince; but is it
+Which is ever as you contempt ask the good duke,
+And, to the dangerous state which 'twas so levy.
+The news of the last, this and the city,
+Come in his parance.
+
+First Murderer:
+How miserable his cheeks and approaches when he is,
+When he hath leads of so his way about watch'd.
+
+CLARENCE:
+Ay, to the groun
+---------------
+
+Men than it were all, I husband;
+And he shall be done not take to him away.
+
+LEONTES:
+Now, sir, no more;
+Thou infirmity of his mind; and here he speaks and
+Being as his cause in carries, and all inker
+Like a warrand or please by men's mine
+That would in the detect of his eyes more
+Than our breathed consuments the vows of us!
+If it be, I should be his; and what is he doth quench
+That he writes of his country's common and leave
+Be much banish'd for wheel, some flesh plains.
+
+HENRY BOLINGBROKE:
+The
+---------------
