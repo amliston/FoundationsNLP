@@ -1,0 +1,66 @@
+Overriding: out_dir = out-shakespeare-do0.0
+Overriding: device = cuda
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+c:\Users\creep\.vscode\FoundationsNLP\sample.py:38: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=device)
+number of parameters: 10.65M
+Loading meta from data\shakespeare_char\meta.pkl...
+
+
+Clown:
+Royally father on, be made the way to take and my day.
+
+GREMIO:
+Faith, quit your hearts, and you swear himself, Gremont
+of the office of the little body misters.
+
+AUTOLYCUS:
+Alack the duke of him of your spell: now
+wall thus wonder your princes have fonds and knaved this
+death:
+the oddinness more protest, prizate, and for it a gentleman poor
+greats that kind thruft for the great shall by along;
+and first his forest from and the dischards.
+When Edward his blood and tears?--
+
+SICINIUS:
+Now
+---------------
+
+Menenius, and griefs to thy death
+That emmortal noble thee in reasy thousand
+Upon thy ugrace, with confessests thy mighty mother,
+And perjoy.
+
+LUCIO:
+A holy very day as the worst knowledges
+Of the husband enforces: there looks, she
+shall be dead.
+
+DUKE VINCENTIO:
+I would have thee all to thy business, thou wert not
+a very common such lords and pointed not. Come, mark I at a
+mised thou of the sun of a mother. Thou art it, bound
+this bell make thee an or father wreck, if
+our teeth trusty thee, and
+---------------
+
+Messenger.
+
+MARIANA:
+I cannot know.
+
+LARTIUS:
+I know, not take the news.
+
+MENENIUS:
+Me, mark you, sir; tell you find you this truth,
+as we did calm his goodly causI have a castle:
+the severe and make you lament the boar of death,
+and to shall each your mother time for He were more
+labours grace of the world and frank through his hand, made his fair state,
+all triumph him to be counts in death. This business so,
+plant both who hath the deputy of a wife
+tender the pity isson eyes, so are holest th
+---------------
