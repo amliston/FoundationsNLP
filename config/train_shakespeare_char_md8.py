@@ -24,7 +24,7 @@ n_head = 6
 n_embd = 384
 dropout = 0.2
 
-learning_rate = 5e-4       
+learning_rate = 1e-3      
 max_iters = 5000
 lr_decay_iters = 5000
 min_lr = 1e-4
