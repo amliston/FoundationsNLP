@@ -1,0 +1,74 @@
+Overriding: out_dir = out-shakespeare-do04
+Overriding: device = cuda
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 10.65M
+Loading meta from data\shakespeare_char\meta.pkl...
+
+And they be deserved in their majesty.
+But they are them to take him and his use.
+
+KING RICHARD II:
+Why, then, that's no other to them;
+This is the statue of a grieve son,
+We lay to claim the deep of heart.
+
+WARWICK:
+No doubt thence, my gracious lord.
+
+KING HENRY VI:
+Hortensio, the queen that mother's alive; when I have wound to
+With cheering stone again; therefore none for the rest.
+Where is the leads, that Prince, Somerset, so haste,
+And wards by his grace hither to marcher it?
+
+BUCKINGHAM:
+My
+---------------
+
+Men pardon, marry, I will give me a place.
+
+BUSHY:
+Now well, my good lord; I have not us born.
+
+BAGOT:
+Yes, then, I would not ask you.
+
+GLOUCESTER:
+Peace, my lord.
+
+CLARENCE:
+This is it so; if it do so,
+Or Richard: there is my subject,
+And hear now, to the day of a woman's country.
+
+GLOUCESTER:
+O whom descend there?
+
+KING EDWARD IV:
+Clarence, thou art not with thy son?
+
+HASTINGS:
+Let him be so.
+
+GLOUCESTER:
+Peace, but thy cursed below by the king;
+And you are welcome.
+
+GLOUCESTER:
+If you were no
+---------------
+
+Me ready in her. Their fellows are under their honours to
+take all the way of honours of a woman, sir; the
+sister, the story great of the noble allow of
+a passion.I have a cause of a love be an engree
+with me at my breatheing brought to shame to the beast; so thou wouldst
+here for the loss. The old conscience of my worship there.
+
+HERMIONE:
+This is no more, but then the way
+beyond as the prince in the letters: but I am end to
+the people, no tongue the tenty of all their breeding
+solemnity, that 
+---------------
