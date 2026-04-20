@@ -1,0 +1,73 @@
+Overriding: out_dir = out-shakespeare-md2
+Overriding: device = cuda
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 3.57M
+Loading meta from data\shakespeare_char\meta.pkl...
+
+
+ANGELO:
+And come, my lord,
+And I see your good lord-hearted at our army.
+
+DUKE VINCENTIO:
+It is a further powerful appetite;
+But thereof it is not so; I long their eyes accessaries,
+Thou tell'st me them on their pelplants,
+So though the very burthen sleep years to see their sights;
+They should their own prove thee in their most rives in him:
+And they shall be they not they short in his land,
+The least, that Prince of Hereford, and they say
+Should not but stay in the realm of Rutland,
+And for th
+---------------
+
+MOPSA:
+Most marry in the crown?
+
+AUTOLYCUS:
+You have been the reason; and being what you beg,
+Though I fear the world lord
+Is all the people.
+
+Clown:
+Ay, but thou art not to the prince, but thou hast sorrow'st,
+Long but though the court-side of the oxland.
+
+AUTOLYCUS:
+What, I am well said it but so.
+
+Clown:
+I have no such comes it, sir, till be the name,
+That thy seven soon might thou shalt be ta'en porter'd with thy complain.
+
+ESCALUS:
+Hark you, sir! what do you do it, would have more?
+
+POMPEY:
+---------------
+
+MARIANA:
+I beseech you, my lord;
+If what you can, he is disanous not back.
+
+DUKE VINCENTIO:
+A mind of fellow time!
+
+ISABELLA:
+This is the duke called by the sword.
+
+LUCIO:
+Why, then, as it is noble princely?
+
+ISABELLA:
+I sing, if in the surveyer of her:
+the duke is a well-heard of lovely deed,
+To cross the bastard of the futh of heavens,
+Give it in still below your honour own bed to his death.
+What business this lave body who hath the deed?
+
+ANGELO:
+O tender the queen as yet as I did:
+I do fear 
+---------------
