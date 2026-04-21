@@ -1,0 +1,72 @@
+Overriding: out_dir = out-shakespeare-bs64
+Overriding: device = cuda
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 10.65M
+Loading meta from data\shakespeare_char\meta.pkl...
+
+
+Clown:
+Renowned and in the time is that e'er take him my
+daggerous army. If he hath been determined
+From whose false will our tongue to the child
+Of whose boars in ease hands and made overthrow;
+Where he is warm well and means the market-bosoms
+That she would let me know thee at English sword.
+
+SICINIUS:
+No more pity to you, sir.
+
+ESCALUS:
+You have made you
+To know the part of this honour's fearful gate,
+Made a deed of the house!
+
+GREGORY:
+Saddam Pompey, standing straight not repossess'd:
+So wi
+---------------
+
+Men pass, I must resolve them hang to thee
+To-morrow how with ready thousand he will sugars
+Envious that perfect that love this she lack.
+
+Servant:
+Peace, move me more.
+
+LADY CAPULET:
+Why, my lord, he hath Richard you, God smiles,
+Wherein you content me to the bawd.
+
+Provost:
+And what you have made me done with him?
+
+SICINIUS:
+I shall desire
+My partners of Capulets: the one time
+The should event of all the city of their hearts
+Of Bohemia and true and ready.
+
+BENVOLIO:
+You are gone! Good king one
+---------------
+
+Me stand in war. Their churchyard with Richmond,
+Look not the false to choose his presence?
+
+CLARENCE:
+Dearly, sir, if I will tell you then, come your grace?
+
+Second Murderer:
+But, I am in the common of his holy flight,
+Reining witness where yet I should be determy?
+
+ROMEO:
+A most lovely day, my lord, what say'st thou?
+Madam, O heaven, I beseech you.
+
+LARTIUS:
+A dog, my lord: I hope his desire can never tell you
+And that your honour is none to make me teny,
+Because I was yet at the army of his h
+---------------
