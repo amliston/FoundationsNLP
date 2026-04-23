@@ -1,0 +1,61 @@
+Overriding: out_dir = out-shakespeare-combineconfig
+Overriding: device = cuda
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 500
+number of parameters: 3.57M
+Loading meta from data\shakespeare_char\meta.pkl...
+
+
+ANGELO:
+And come, which you have to my be deed may them the caress'd,
+Which us he her back that a enfrom will not the more
+When which of it is the sweet to cause to the hand;
+Sir, there's speak of not him.
+
+WARWICK:
+No do was the he country prayersises, why, where's not
+To this deserving would that
+more not when evices to the curself in him his sould should
+To known not the so; sir, there's fear leave,
+That Prison, no my lords and to be accords be his greath.
+
+MARGILIA:
+And your blood you can y
+---------------
+
+Men pardon, I will not not be hath hathe his me?
+
+COMINIUS:
+Yet and the causin, what we condent of confessents
+For might to till he lace.
+
+SOMEY:
+I was the love are parts to their poor trison:
+He shall the Romeo, and come, and sun?
+
+ROMEO:
+I have is to the was the king grace but with sould the man?
+
+CLARENCE:
+No, I will well show thy lord, and power and now thee,
+Though to me undeter not the such a crown and with that the curself
+Be senk to care him the with twatch the did to glow'd;
+To know our
+---------------
+
+Mess and breath.
+
+First Gentleman:
+Paring conver, he disciland, and that have man
+But to be stain so kill with her fiends I have thou would was
+a born was absenselIng my a can the capes, and and in them
+To me art the reposing brother to shall earth.
+
+GLOUCESTER:
+I would thee to must below!
+And come, thou just the vown crown his call backs,
+When that the conqueen dead him queen and first:
+He was not but no the comman; but shall me we to the poorm the from your late,
+And so in the so are holy son
+
+---------------
